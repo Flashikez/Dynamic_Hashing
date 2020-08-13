@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Main/Test.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Main/MainController.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Nehnutelnost/Nehnutelnost_byID.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Record.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/DataBlock.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Main/Semestralka2_US.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/BlockBoxes/RecordText.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/BlockBoxes/OverFillBlock_Box.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Main/Holder.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/FreeBlocksManager.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Nehnutelnost/Nehnutelnost.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/InvalidRecord.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Generate/GenerateController.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/nodes/InternalNode.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/nodes/ExternalNode.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/BlockBoxes/Unsorted_Box.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/UnsortedFile.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/nodes/ReturnNode_Depth.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/nodes/Node.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Util/AlertManager.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Nehnutelnost/Nehnutelnost_byScN.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Block_String.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/UserInputs/InputController.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/BlockBoxes/DataBlock_Box.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Util/Utilities.java</file>
+            <file>file:/C:/Users/Marek/Desktop/Semestralka2_US/src/semestralka2_us/Dynamic_hashing.java</file>
+        </group>
+    </open-files>
+</project-private>
